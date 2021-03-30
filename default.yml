@@ -41,4 +41,8 @@ Rails/UniqBeforePluck:
   Description: 'Prefer the use of uniq or distinct before pluck.'
   Enabled: true
 
+Rails/ActiveRecordAliases:
+  Description: 'Checks that ActiveRecord aliases are not used. The direct method names are more clear and easier to read.'
+  Enabled: true
+
 # ------------------------------------ /Rails --------------------------------------------
